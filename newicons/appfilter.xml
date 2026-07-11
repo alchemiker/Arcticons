@@ -2708,8 +2708,8 @@
 	<item component="ComponentInfo{cz.alza.eshop/cz.alza.base.android.setup.ui.Launcher}" drawable="alza"/>
 
 	<!-- AM Debug -->
-	<item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="settings"/>
-	<item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="settings"/>
+	<item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="appmanager_muntashirakon"/>
+	<item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="appmanager_muntashirakon"/>
 	<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.fm.FilesActivity}" drawable="folder"/>
 
 	<!-- Amarok -->
@@ -3752,8 +3752,8 @@
 	<item component="ComponentInfo{com.minsvyaz.applist/com.minsvyaz.rusapp.presentation.RootActivity}" drawable="app_list"/>
 
 	<!-- App Manager -->
-	<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="appmanager"/>
-	<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="appmanager"/>
+	<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="appmanager_muntashirakon"/>
+	<item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="appmanager_muntashirakon"/>
 
 	<!-- App Market / Hot Apps / Hot Games -->
 	<item component="ComponentInfo{com.oppo.market/com.heytap.cdo.client.search.SearchActivityDesktop}" drawable="app_market"/>
@@ -14957,6 +14957,9 @@
 
 	<!-- Cube Rubik -->
 	<item component="ComponentInfo{com.maximko.cuber/crc648dd0a4ec54f809e1.Activity1}" drawable="cube_rubik"/>
+	
+	<!-- Cube Run -->
+	<item component="ComponentInfo{cube.run/cube.run.GameActivity}" drawable="cuberun"/>
 
 	<!-- Cube Solver -->
 	<item component="ComponentInfo{com.android.contacts/com.jeffprod.cubesolver.MainActivity}" drawable="cubesolver"/>
@@ -34423,6 +34426,9 @@
 	<item component="ComponentInfo{de.knowunity.app/de.knowunity.app.MainActivity}" drawable="knowunity"/>
 	<item component="ComponentInfo{de.knowunity.app/de.knowunity.app.Knowunity}" drawable="knowunity"/>
 	<item component="ComponentInfo{de.knowunity.app/com.google.android.archive.ReactivateActivity}" drawable="knowunity"/>
+	
+	<!-- Know Your Lemons -->
+	<item component="ComponentInfo{com.knowyourlemons.app/com.knowyourlemons.app.MainActivity}" drawable="knowyourlemons"/>
 
 	<!-- Koala Sampler -->
 	<item component="ComponentInfo{com.elf.koalasampler/com.elf.koalasampler.KoalaActivity}" drawable="letter_uppercase_circle_k"/>
@@ -59229,6 +59235,7 @@
 	<!-- SortPuz -->
 	<item component="ComponentInfo{sortpuz.water.sort.puzzle.game/com.common.common.act.v2.BaseAgentAct}" drawable="sortpuz"/>
 	<item component="ComponentInfo{sortpuz.water.sort.puzzle.game/sortpuz.water.sort.puzzle.game.StartAct}" drawable="sortpuz"/>
+	<item component="ComponentInfo{com.sidhant.watersort/com.sidhant.watersort.MainActivity}" drawable="sortpuz"/>
 
 	<!-- Sortwell -->
 	<item component="ComponentInfo{com.ridwell.plasticmlapp/com.ridwell.plasticmlapp.MainActivity}" drawable="sortwell"/>
@@ -65010,6 +65017,9 @@
 
 	<!-- Travy -->
 	<item component="ComponentInfo{com.saionjichannel.ryokoshiyagare/com.saionjichannel.ryokoshiyagare.MainActivity}" drawable="travy" />
+	
+	<!-- Trayzero -->
+	<item component="ComponentInfo{app.cleartray/app.cleartray.MainActivity}" drawable="trayzero"/>
 
 	<!-- TrCamera -->
 	<item component="ComponentInfo{com.google.android.GoogleCameraTigr/com.android.camera.CameraLauncher}" drawable="trcamera"/>
@@ -66443,6 +66453,9 @@
 
 	<!-- TXD Tool -->
 	<item component="ComponentInfo{com.viseksoftware.txdw/com.viseksoftware.txdw.activities.MainContentActivity}" drawable="txd_tool"/>
+	
+	<!-- Txori -->
+	<item component="ComponentInfo{com.rama.txori/com.rama.txori.activities.MainActivity}" drawable="txori"/>
 
 	<!-- txtpad -->
 	<item component="ComponentInfo{vladyslavpohrebniakov.txtpad/vladyslavpohrebniakov.txtpad.main.MainActivity}" drawable="simpletexteditor"/>
